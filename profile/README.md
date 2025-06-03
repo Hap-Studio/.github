@@ -1,7 +1,6 @@
 # 🎮 Hap Studio 🎮
-- [Mario Cortés Herrera](https://github.com/SimulationOfMario)
-- [Javier Molina Colmenero](https://github.com/CreatorBeastGD)
-<div align="left">
-  <img src="https://avatars.githubusercontent.com/u/124881638" width="150">
-  <img src="https://avatars.githubusercontent.com/u/124881215" width="150">
+
+<div style="display: flex; align-items: center;">
+  <a href="https://github.com/SimulationOfMario"><img src="https://avatars.githubusercontent.com/u/124881638" width="150"></a>&nbsp;
+  <a href="https://github.com/CreatorBeastGD"><img src="https://avatars.githubusercontent.com/u/124881215" width="150"></a>
 </div>
