@@ -10,6 +10,12 @@
   <a href="https://github.com/CreatorBeastGD"><img src="https://avatars.githubusercontent.com/u/124881215" width="150"></a>
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hap-Studio.Hap-Studio&left_color=orange&right_color=red&left_text=Number%20of%20visitors:"  />
+</div>
+
 <div align="center">
   <h2>
     🕹️ Our Games 🕹️
