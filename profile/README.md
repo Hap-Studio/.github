@@ -5,9 +5,9 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/SimulationOfMario"><img src="https://avatars.githubusercontent.com/u/124881638" width="150"></a>
+  <a href="https://github.com/SimulationOfMario"><img src="https://avatars.githubusercontent.com/u/124881638" width="150" alt="SimulationOfMario" title="SimulationOfMario"></a>
   &nbsp;
-  <a href="https://github.com/CreatorBeastGD"><img src="https://avatars.githubusercontent.com/u/124881215" width="150"></a>
+  <a href="https://github.com/CreatorBeastGD"><img src="https://avatars.githubusercontent.com/u/124881215" width="150" alt="CreatorBeastGD" title="CreatorBeastGD"></a>
 </div>
 
 <br/>
