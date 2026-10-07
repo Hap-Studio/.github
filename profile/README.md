@@ -23,14 +23,10 @@
 </div>
 
 <div align="center">
+  <a href="https://youtu.be/go6GIfXNzfI">
+    <img src="https://github.com/user-attachments/assets/20fbbd39-11fb-4e43-9dfa-eda39fcee5e5" width="300" title="Mortis Space Mission"/>
+  </a>
   <h3>
-    💀 
-    <a href="https://youtu.be/go6GIfXNzfI">
-      Mortis Space Mission
-    </a> 
-    🚀
-  </h3>
-  <h3>
-      Coming Soon!
+    Coming Soon!
   </h3>
 </div>
