@@ -24,9 +24,10 @@
 
 <div align="center">
   <a href="https://youtu.be/go6GIfXNzfI">
-    <img src="https://github.com/user-attachments/assets/20fbbd39-11fb-4e43-9dfa-eda39fcee5e5" width="300" title="Mortis Space Mission"/>
+    <img src="https://github.com/user-attachments/assets/39271b0e-54fa-45b6-969c-c41a01c4c924" width="250" title="Mortis Space Mission"/>
   </a>
   <h3>
+    <i>Click the logo to watch the full gameplay (spoilers!)</i><br/>
     Coming Soon!
   </h3>
 </div>
